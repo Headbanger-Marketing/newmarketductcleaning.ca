@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newmarketductcleaning.ca/sitemap-index.xml
