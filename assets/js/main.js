@@ -1,4 +1,4 @@
-/* Newmarket Duct Cleaning — site interactions */
+/* Ajax Heating & Cooling — site interactions */
 (function () {
   "use strict";
   var d = document;
